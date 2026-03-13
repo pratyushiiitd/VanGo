@@ -1,0 +1,17 @@
+[
+ {
+   "id": "driver1",
+   "password": "1234",
+   "role": "driver"
+ },
+ {
+   "id": "parent1",
+   "password": "1234",
+   "role": "parent"
+ },
+ {
+   "id": "school1",
+   "password": "1234",
+   "role": "school"
+ }
+]
