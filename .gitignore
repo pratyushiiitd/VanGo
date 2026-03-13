@@ -1,0 +1,49 @@
+# Node
+node_modules/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+logs/
+*.log
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+public/build/
+
+# Testing
+coverage/
+
+# Caches
+/.cache
+.parcel-cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Misc
+*.tgz
+*.swp
+
+# Platform-specific
+/.pnp.cjs
+/.pnp.loader.mjs
+
+# Explicit backend/frontend node_modules (optional)
+saferide-backend/node_modules/
+vango-frontend/node_modules/
